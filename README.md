@@ -4,16 +4,19 @@ You should access the QwikLabs tour and Google Cloud Platform (GCP)
 overview at [https://www.qwiklabs.com/focuses/2794?parent=catalog](https://www.qwiklabs.com/focuses/2794?parent=catalog).
 
 This lab should be very easy -- you're basically following an online
-tutorial to learn how to use a software platform. Some additional
+tutorial to learn how to use a software platform. 
+
+After finishing that exercise, complete this one: 
+[https://www.cloudskillsboost.google/focuses/563?parent=catalog](https://www.cloudskillsboost.google/focuses/563?parent=catalog).
+This will require a QwikLabs credit. Info on how to utilize credits will be
+provided in class.
+
+Some additional
 challenges will be that you're going to be accepting this lab through
 Github Classroom and submitting your solution using git.
 
-While the QwikLabs system will provide Google Compute credits for the
-labs, you should go ahead and accept the Google Credits first so that
-the QwikLabs are free as well.
-
-You should complete that lab and then upload the image of your
-test.txt file, similar to the one below:
+At the end of the second lab, edit a file called test.txt.  Write your name into that file.  
+Then, in the gcloud shell run "cat test.txt" and take a screen shot.
 ![Screen capture of test output](./lab1-finish-dirk.png)
 
 You should name your image something like
