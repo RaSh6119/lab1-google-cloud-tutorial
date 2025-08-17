@@ -9,7 +9,7 @@ tutorial to learn how to use a software platform.
 After finishing that exercise, complete this one: 
 [https://www.cloudskillsboost.google/focuses/563?parent=catalog](https://www.cloudskillsboost.google/focuses/563?parent=catalog).
 This will require a QwikLabs credit. Info on how to utilize credits will be
-provided in class.
+provided in class. You can individually request 200 from [https://services.google.com/fb/forms/googlecloudskillsbooststudenttrainingcreditsapplication/](https://services.google.com/fb/forms/googlecloudskillsbooststudenttrainingcreditsapplication/)
 
 Some additional
 challenges will be that you're going to be accepting this lab through
